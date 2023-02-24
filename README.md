@@ -1,2 +1,2 @@
-# PROYECTOS
+# Proyectos escolares de 4to, 5to y 6to año
 Portafolio de proyectos escolares. Todavia quedan proyectos por subir...
